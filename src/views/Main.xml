@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<div xmlns="http://www.w3.org/1999/xhtml">
+  <p>Página 2</p>
+  <p><a href="#hola">Hola</a></p>
+  <p><button onclick="location.href = '#hola2'">Púlsame</button></p>
+</div>
