@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <div xmlns="http://www.w3.org/1999/xhtml">
-  <p>Página 4</p>
+  <h2>Acerca de</h2>
+  <p><button onclick="navi.activity_call('lista')">Vamos a la lista</button></p>
 </div>

@@ -2,3 +2,6 @@ body {
   background-color: rebeccapurple;
   height: 100vh;
 }
+body>:not([aria-current]){
+  display: none;
+}
