@@ -1,0 +1,6 @@
+# Configuracion de proyecto
+
+[Navi]
+name = "Mi aplicacion"
+theme_color = "rebeccapurple"
+color_scheme = "light"
