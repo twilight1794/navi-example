@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <div xmlns="http://www.w3.org/1999/xhtml">
-  <h1>Página principal</h1>
-  <p><button onclick="navi.activity_call('acerca-de')">Ir a los detalles</button></p>
+  <h1>Bridgerton</h1>
+  <p><dfn>Bridgerton</dfn> es un drama de época, ambientado durante la época de la Regencia en Londres, que narra las vivencias de las familias aristócratas de Mayfair.</p>
+  <p>La historia se centra en la familia Bridgerton, compuesta por 8 hermanos, dirigidos por una madre amorosa que solo desea ver a sus hijos casarse por amor.</p>
+  <h2>Personajes<h2>
+  <button onclick="navi.activity_call('acerca-de')">Ir a los detalles</button></p>
 </div>

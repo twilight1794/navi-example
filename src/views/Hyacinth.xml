@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<div xmlns="http://www.w3.org/1999/xhtml">
+<h2>Hyacinth Bridgerton</h2>
+<img src="@Hyacinth" />
+<ul>
+  <li>La más joven de los hijos Bridgerton</li>
+  <li>Su nombre se debe a que fue la última flor que su padre vio antes de morir</li>
+  <li>Le gusta la historia</li>
+</ul>
+</div>
