@@ -4,3 +4,4 @@
 name = "Mi aplicacion"
 theme_color = "rebeccapurple"
 color_scheme = "light"
+main_activity = "Main"
